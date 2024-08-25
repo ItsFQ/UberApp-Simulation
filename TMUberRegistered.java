@@ -4,8 +4,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import javax.annotation.processing.FilerException;
-
 public class TMUberRegistered
 {
     // These variables are used to generate user account and driver ids
